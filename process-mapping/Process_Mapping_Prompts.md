@@ -6,7 +6,7 @@ Prompts to accelerate workflow discovery, visualization, and optimization.
 
 ## 1. Generate Current-State Process Maps
 **Prompt:**  
-“Describe the current-state workflow for <process>. Include actors, systems, decision points, bottlenecks, and handoffs.”
+“Describe the current-state workflow for (process_name). Include actors, systems, decision points, bottlenecks, and handoffs.”
 
 ---
 
